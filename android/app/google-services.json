@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679871093669",
+    "project_id": "simantnotification",
+    "storage_bucket": "simantnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679871093669:android:770aeb5f39e065304b664c",
+        "android_client_info": {
+          "package_name": "com.ecrc.simant_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679871093669-nv7p2qtoj2pv4fkvbsl1bqmc9modafp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7IGLGSUK8ubeRYFuVooKL-QcwYqMU_z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679871093669-nv7p2qtoj2pv4fkvbsl1bqmc9modafp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

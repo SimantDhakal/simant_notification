@@ -1,8 +1,16 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ecrc.simant_notification">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
    <application
         android:label="simant_notification"
         android:icon="@mipmap/ic_launcher">
+
+       <!-- name doesn't change, value = your class fully name spaced-->
+       <meta-data android:name="com.onesignal.NotificationServiceExtension"
+           android:value="com.ecrc.simant_notification.NotificationServiceExtension" />
+
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
